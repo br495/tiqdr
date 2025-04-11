@@ -1,0 +1,124 @@
+{
+  "banks": [
+    {
+      "id": 30,
+      "name": "الإصدار 30",
+      "files": {
+        "solved": "/solved/Bank 30.pdf",
+        "unsolved": "/unsolved/Bank 30.pdf"
+      },
+      "videos": {
+        "explanation1": "RMy0J01L6N8",
+        "explanation2": "j25oOsk7-nY"
+      }
+    },
+    {
+      "id": 29,
+      "name": "الإصدار 29",
+      "files": {
+        "solved": "/solved/Bank 29.pdf",
+        "unsolved": "/unsolved/Bank 29.pdf"
+      },
+      "videos": {
+        "explanation1": "5PxnWKAACCk",
+        "explanation2": "ahmobQd9P4A"
+      }
+    },
+    {
+      "id": 28,
+      "name": "الإصدار 28",
+      "files": {
+        "solved": "/solved/Bank 28.pdf",
+        "unsolved": "/unsolved/Bank 28.pdf"
+      },
+      "videos": {
+        "explanation1": "TYtTXvKJazY",
+        "explanation2": "tfTU3n00t00"
+      }
+    },
+    {
+      "id": 27,
+      "name": "الإصدار 27",
+      "files": {
+        "solved": "/solved/Bank 27.pdf",
+        "unsolved": "/unsolved/Bank 27.pdf"
+      },
+      "videos": {
+        "explanation1": "KEbWBSSTf54",
+        "explanation2": "mdbkIZwje_M"
+      }
+    },
+    {
+      "id": 26,
+      "name": "الإصدار 26",
+      "files": {
+        "solved": "/solved/Bank 26.pdf",
+        "unsolved": "/unsolved/Bank 26.pdf"
+      },
+      "videos": {
+        "explanation1": "Zr6QTPDfQEY",
+        "explanation2": "QWslQ1d_1H8"
+      }
+    },
+    {
+      "id": 25,
+      "name": "الإصدار 25",
+      "files": {
+        "solved": "/solved/Bank 25.pdf",
+        "unsolved": "/unsolved/Bank 25.pdf"
+      },
+      "videos": {
+        "explanation1": "iSOAgduLec0",
+        "explanation2": "v8dDf6ZFEOE"
+      }
+    },
+    {
+      "id": 24,
+      "name": "الإصدار 24",
+      "files": {
+        "solved": "/solved/Bank 24.pdf",
+        "unsolved": "/unsolved/Bank 24.pdf"
+      },
+      "videos": {
+        "explanation1": "omxdjozk_w8",
+        "explanation2": "_SzqYueaRKQ"
+      }
+    },
+    {
+      "id": 23,
+      "name": "الإصدار 23",
+      "files": {
+        "solved": "/solved/Bank 23.pdf",
+        "unsolved": "/unsolved/Bank 23.pdf"
+      },
+      "videos": {
+        "explanation1": "IRiyFhQyP0o",
+        "explanation2": "GqFZq06AV4Y"
+      }
+    },
+    {
+      "id": 22,
+      "name": "الإصدار 22",
+      "files": {
+        "solved": "/solved/Bank 22.pdf",
+        "unsolved": "/unsolved/Bank 22.pdf"
+      },
+      "videos": {
+        "explanation1": "0ATgd41_6UA",
+        "explanation2": "-7qDwXtX20Q"
+      }
+    },
+    {
+      "id": 21,
+      "name": "الإصدار 21",
+      "files": {
+        "solved": "/solved/Bank 21.pdf",
+        "unsolved": "/unsolved/Bank 21.pdf"
+      },
+      "videos": {
+        "explanation1": "6LolhiBJ7MY",
+        "explanation2": "XHRuG9ScFRk"
+      }
+    }
+  ]
+}
