@@ -255,7 +255,7 @@
       }
 
       .dark-mode .text-primary {
-        color: var(--secondary-color) !important;
+        color: var (--secondary-color) !important;
       }
 
       /* Dark mode toggle */
@@ -433,9 +433,12 @@
           });
       });
 
-      // تهيئة البنوك وعرضها في الصفحة
+      // ترتيب البنوك حسب رقم الـ id تصاعديًا
       function initializeBanks(banks) {
         const accordionEl = document.getElementById("banksAccordion");
+
+        // ترتيب المصفوفة بناءً على id
+        banks.sort((a, b) => a.id - b.id);
 
         // تفريغ المحتوى السابق
         accordionEl.innerHTML = "";
