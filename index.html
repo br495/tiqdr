@@ -596,22 +596,8 @@
                             </a>
                           </h4>
                           <div class="pdf-container" style="height: 80vh;">
-                            <object data="${bank.files.solved}" type="application/pdf" width="100%" height="100%">
-                              <div class="alert alert-warning text-center p-5">
-                                <i class="bi bi-exclamation-triangle-fill fs-1 d-block mb-3"></i>
-                                <p>يبدو أن متصفحك لا يدعم عرض ملفات PDF.</p>
-                                <a href="${bank.files.solved}" class="btn btn-primary mt-2" target="_blank">
-                                  <i class="bi bi-download me-2"></i>تحميل الملف
-                                </a>
-                              </div>
-                            </object>
-                          </div>
-                          <div class="d-flex justify-content-between align-items-center mt-3">
-                            <span class="badge bg-success rounded-pill">ملف محلول</span>
-                            <a href="${bank.files.solved}" class="btn btn-sm btn-outline-success" download>
-                              <i class="bi bi-download me-1"></i>تحميل الملف
-                            </a>
-                          </div>
+  <iframe src="${bank.files.solved}" width="100%" height="100%" style="border: none;"></iframe>
+</div>
                         </div>
                       </div>
                     </div>
