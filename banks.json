@@ -599,6 +599,174 @@
         "explanation1": "FQtOBIeJ880",
         "explanation2": "EuB7mnyQWn0"
       }
+    },
+    {
+      "id": 100,
+      "name": "الإصدار 100",
+      "files": {
+        "solved": "/solved/Bank 100.pdf",
+        "unsolved": "/unsolved/Bank 100.pdf"
+      },
+      "videos": {
+        "explanation1": "3HPtolZafMA",
+        "explanation2": "TEWgCq5F8lo"
+      }
+    },
+    {
+      "id": 101,
+      "name": "الإصدار 101",
+      "files": {
+        "solved": "/solved/Bank 101.pdf",
+        "unsolved": "/unsolved/Bank 101.pdf"
+      },
+      "videos": {
+        "explanation1": "sqhQ8xPYOXg",
+        "explanation2": "197YHXE1PhQ"
+      }
+    },
+    {
+      "id": 102,
+      "name": "الإصدار 102",
+      "files": {
+        "solved": "/solved/Bank 102.pdf",
+        "unsolved": "/unsolved/Bank 102.pdf"
+      },
+      "videos": {
+        "explanation1": "iiUw_LuqfF8",
+        "explanation2": "jUYtMDixJt0"
+      }
+    },
+    {
+      "id": 103,
+      "name": "الإصدار 103",
+      "files": {
+        "solved": "/solved/Bank 103.pdf",
+        "unsolved": "/unsolved/Bank 103.pdf"
+      },
+      "videos": {
+        "explanation1": "bXkKZedJyXg",
+        "explanation2": "-mfAEExPOQw"
+      }
+    },
+    {
+      "id": 104,
+      "name": "الإصدار 104",
+      "files": {
+        "solved": "/solved/Bank 104.pdf",
+        "unsolved": "/unsolved/Bank 104.pdf"
+      },
+      "videos": {
+        "explanation1": "5RECzhBJ42s",
+        "explanation2": "7vM4Bxdh9sQ"
+      }
+    },
+    {
+      "id": 105,
+      "name": "الإصدار 105",
+      "files": {
+        "solved": "/solved/Bank 105.pdf",
+        "unsolved": "/unsolved/Bank 105.pdf"
+      },
+      "videos": {
+        "explanation1": "cXRdKjF6cBw",
+        "explanation2": "679BCEqRees"
+      }
+    },
+    {
+      "id": 106,
+      "name": "الإصدار 106",
+      "files": {
+        "solved": "/solved/Bank 106.pdf",
+        "unsolved": "/unsolved/Bank 106.pdf"
+      },
+      "videos": {
+        "explanation1": "EZoMrF0IqqE",
+        "explanation2": "xfSOslE-t3Y"
+      }
+    },
+    {
+      "id": 107,
+      "name": "الإصدار 107",
+      "files": {
+        "solved": "/solved/Bank 107.pdf",
+        "unsolved": "/unsolved/Bank 107.pdf"
+      },
+      "videos": {
+        "explanation1": "rUoSWIKmOn8",
+        "explanation2": "-dAuc0FQe-M"
+      }
+    },
+    {
+      "id": 108,
+      "name": "الإصدار 108",
+      "files": {
+        "solved": "/solved/Bank 108.pdf",
+        "unsolved": "/unsolved/Bank 108.pdf"
+      },
+      "videos": {
+        "explanation1": "q7df4yhijRs",
+        "explanation2": "uQY0yEEODPo"
+      }
+    },
+    {
+      "id": 109,
+      "name": "الإصدار 109",
+      "files": {
+        "solved": "/solved/Bank 109.pdf",
+        "unsolved": "/unsolved/Bank 109.pdf"
+      },
+      "videos": {
+        "explanation1": "DauoTWVBmNg",
+        "explanation2": "CkyySKo5Rco"
+      }
+    },
+    {
+      "id": 110,
+      "name": "الإصدار 110",
+      "files": {
+        "solved": "/solved/Bank 110.pdf",
+        "unsolved": "/unsolved/Bank 110.pdf"
+      },
+      "videos": {
+        "explanation1": "QNRnCeEAmf0",
+        "explanation2": "F6ridigkI_U"
+      }
+    },
+    {
+      "id": 111,
+      "name": "الإصدار 111",
+      "files": {
+        "solved": "/solved/Bank 111.pdf",
+        "unsolved": "/unsolved/Bank 111.pdf"
+      },
+      "videos": {
+        "explanation1": "bPATsguSQz0",
+        "explanation2": "o4IbXTVs1Ao"
+      }
+    },
+    {
+      "id": 112,
+      "name": "الإصدار 112",
+      "files": {
+        "solved": "/solved/Bank 112.pdf",
+        "unsolved": "/unsolved/Bank 112.pdf"
+      },
+      "videos": {
+        "explanation1": "pgal9gVCyN0",
+        "explanation2": "LoRrNLik6vQ"
+      }
+    },
+    {
+      "id": 113,
+      "name": "الإصدار 113",
+      "files": {
+        "solved": "/solved/Bank 113.pdf",
+        "unsolved": "/unsolved/Bank 113.pdf"
+      },
+      "videos": {
+        "explanation1": "2joNg1pYd4A",
+        "explanation2": "tIz9hG12OJk"
+      }
     }
   ]
 }
