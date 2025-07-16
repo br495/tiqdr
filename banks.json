@@ -766,6 +766,17 @@
       "videos": {
         "explanation1": "2joNg1pYd4A",
         "explanation2": "tIz9hG12OJk"
+      },
+    {
+      "id": 114,
+      "name": "الإصدار 114",
+      "files": {
+        "solved": "/solved/Bank 114.pdf",
+        "unsolved": "/unsolved/Bank 114.pdf"
+      },
+      "videos": {
+        "explanation1": "5KXHiwRxzBM",
+        "explanation2": "VoSzbzDm7J8"
       }
     }
   ]
